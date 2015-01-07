@@ -1,0 +1,119 @@
+body {
+     max-width: 100%;
+     font-family: 'Roboto', sans-serif;
+     font-size: 18px;
+     background-color: #9ed670;
+ }
+
+#header {
+    background-color: #4d7358;
+    border-radius: 3px;
+    text-align: center;
+    border: 2px solid;
+}
+#navigation {
+    background-color: #4d7358;
+    border-radius: 3px;
+    border: 2px solid;
+    text-align: left;
+    margin-top: 20px;
+    position: relative;
+    margin-left: 30px;
+}
+#login {
+    background-color: #4d7358;
+    border-radius: 3px;
+    border: 2px solid;
+    text-align: center;
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 30px;
+}
+.btn {
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: #dff79e;
+}
+
+#ad1 {
+    background-color: #4d7358;
+    border-radius: 3px;
+    border: 2px solid;
+    position: relative;
+    margin-top:20px;
+    margin-left: 30px;
+}
+
+.dotted {
+    border: 1px dashed;
+    background-color: #dff79e;
+}
+ #table1 {
+     position: relative;
+     margin-left: 115px;
+     margin-top: -135px;
+     width: 85%;
+     margin-bottom: 20px;
+ }
+
+ #categories {
+     background-color: #4d7358;
+     border-radius: 3px;
+     border: 2px solid;
+     text-align: left;
+     margin-top: -327px;
+     position: relative;
+     margin-left: 30px;
+ }
+
+ #categories ul {
+     list-style-type: none;
+     margin-left: -25px;
+ }
+ #ad2 {
+     background-color: #4d7358;
+     border-radius: 3px;
+     border: 2px solid;
+     position: relative;
+     margin-top:20px;
+     margin-left: 285px;
+ }
+
+ #table2 {
+     position: relative;
+     margin-left: 115px;
+     margin-top: -140px;
+     width: 85%;
+     margin-bottom: 20px;
+ }
+
+ #towns {
+     background-color: #4d7358;
+     border-radius: 3px;
+     border: 2px solid;
+     text-align: left;
+     position: relative;
+     margin-left: 30px;
+     margin-top: -65px;
+ }
+
+ #towns ul {
+     list-style-type: none;
+     margin-left: -25px;
+ }
+
+ #pages {
+     position: absolute;
+     margin-top: 710px;
+     margin-left: 575px;
+ }
+
+ #footer {
+     background-color: #4d7358;
+     border-radius: 3px;
+     text-align: center;
+     border: 2px solid;
+     position: absolute;
+     margin-top: 800px;
+     width: 100%;
+ }
